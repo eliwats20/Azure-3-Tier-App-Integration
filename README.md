@@ -205,7 +205,6 @@ Re‑created diagnostic settings inside each App Service and SQL Database.
 **Solution:**  
 Documented the attempt and chose manual deployment for this small‑scale project.
 
-
 ---
 
 ## 🏁 Conclusion
