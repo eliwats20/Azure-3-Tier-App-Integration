@@ -212,3 +212,28 @@ Documented the attempt and chose manual deployment for this small‑scale projec
 This project successfully demonstrates the design and deployment of a secure, scalable, enterprise‑style 3‑tier architecture on Azure. Despite tenant limitations, the core principles of cloud networking, security, monitoring, and architecture were fully implemented.
 
 This project showcases real‑world cloud engineering skills and serves as a strong portfolio piece for Azure, cloud, and DevOps roles.
+
+---
+
+## 🚀 Future Plans
+
+This project is not a finished product. There’s a lot I still want to build on top of it. These are the next steps I plan to explore as I continue improving the architecture and making it feel more production‑ready.
+
+### Add a Web Application Firewall (WAF)
+I want to introduce an Application Gateway with WAF to get real Layer 7 protection. This would let me experiment with OWASP rules, custom blocking logic, and end‑to‑end TLS.
+
+### Improve Load Balancing & High Availability
+Right now everything runs on single instances. A future goal is to scale out the Frontend App Service and test how Azure handles load balancing, health probes, and failover behavior.
+
+### Build Log Analytics Dashboards
+I plan to create custom dashboards for:
+- App Service performance  
+- Private Endpoint traffic  
+- SQL query performance  
+- Security and audit logs  
+
+This will help me visualize what’s actually happening inside the environment.
+
+### Revisit CI/CD
+I attempted to set up a GitHub Actions pipeline earlier, but the project didn’t have a full backend server to justify a full deployment workflow. Once I expand the app, I want to revisit CI/CD and automate the deployment process properly.
+
