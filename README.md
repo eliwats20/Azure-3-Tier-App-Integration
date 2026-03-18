@@ -20,7 +20,7 @@ The goal was to build a **secure, isolated, production‑style environment** usi
 ---
 
 ## 🧩 Architecture Diagram  
-*(Insert your diagram here)*
+
 
 ---
 
