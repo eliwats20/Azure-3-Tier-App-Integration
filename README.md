@@ -20,8 +20,7 @@ The goal was to build a **secure, isolated, production‑style environment** usi
 ---
 
 ## 🧩 Architecture Diagram  
-![diagram]("./images/3-Tier Azure Architecture.png")
-
+![diagram](./images/3-Tier%20Azure%20Architecture.png)
 
 ---
 
