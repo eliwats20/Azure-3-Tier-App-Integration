@@ -197,6 +197,15 @@ Initially created diagnostic settings from the workspace instead of the resource
 **Solution:**  
 Re‑created diagnostic settings inside each App Service and SQL Database.
 
+### CI/CD Pipeline Attempt (Failed)
+- Attempted to set up a GitHub Actions CI/CD pipeline  
+- Pipeline failed because the project does not include a full backend web server  
+- Static frontend + minimal backend API did not justify a full deployment pipeline  
+
+**Solution:**  
+Documented the attempt and chose manual deployment for this small‑scale project.
+
+
 ---
 
 ## 🏁 Conclusion
