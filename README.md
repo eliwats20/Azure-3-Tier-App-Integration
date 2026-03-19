@@ -96,6 +96,7 @@ This project follows real‑world enterprise security patterns:
 
 ### **1. Create Resource Group**
 Organized all project resources in a single RG.
+
 <img width="475" height="443" alt="image" src="https://github.com/user-attachments/assets/18821f3f-a411-450c-93af-aaeb78af7a95" />
 
 
